@@ -1,0 +1,183 @@
+C:\CursoMVC\Aula11_3_BussinesObjects\Mvc_BO\Mvc_BO\bin\Mvc_BO.dll.config
+C:\CursoMVC\Aula11_3_BussinesObjects\Mvc_BO\Mvc_BO\bin\Mvc_BO.dll
+C:\CursoMVC\Aula11_3_BussinesObjects\Mvc_BO\Mvc_BO\bin\Mvc_BO.pdb
+C:\CursoMVC\Aula11_3_BussinesObjects\Mvc_BO\Mvc_BO\bin\BLL.dll
+C:\CursoMVC\Aula11_3_BussinesObjects\Mvc_BO\Mvc_BO\bin\System.Web.Helpers.dll
+C:\CursoMVC\Aula11_3_BussinesObjects\Mvc_BO\Mvc_BO\bin\System.Web.Mvc.dll
+C:\CursoMVC\Aula11_3_BussinesObjects\Mvc_BO\Mvc_BO\bin\System.Web.Razor.dll
+C:\CursoMVC\Aula11_3_BussinesObjects\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.Deployment.dll
+C:\CursoMVC\Aula11_3_BussinesObjects\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.dll
+C:\CursoMVC\Aula11_3_BussinesObjects\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.Razor.dll
+C:\CursoMVC\Aula11_3_BussinesObjects\Mvc_BO\Mvc_BO\bin\BLL.pdb
+C:\CursoMVC\Aula11_3_BussinesObjects\Mvc_BO\Mvc_BO\bin\System.Web.Razor.xml
+C:\CursoMVC\Aula11_3_BussinesObjects\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.xml
+C:\CursoMVC\Aula11_3_BussinesObjects\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.Deployment.xml
+C:\CursoMVC\Aula11_3_BussinesObjects\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.Razor.xml
+C:\CursoMVC\Aula11_3_BussinesObjects\Mvc_BO\Mvc_BO\bin\System.Web.Helpers.xml
+C:\CursoMVC\Aula11_3_BussinesObjects\Mvc_BO\Mvc_BO\bin\System.Web.Mvc.xml
+C:\CursoMVC\Aula11_3_BussinesObjects\Mvc_BO\Mvc_BO\obj\Debug\Mvc_BO.csprojResolveAssemblyReference.cache
+C:\CursoMVC\Aula11_3_BussinesObjects\Mvc_BO\Mvc_BO\obj\Debug\Mvc_BO.dll
+C:\CursoMVC\Aula11_3_BussinesObjects\Mvc_BO\Mvc_BO\obj\Debug\Mvc_BO.pdb
+C:\CursoMVC\Aula11_4_InserindoDados\Mvc_BO\Mvc_BO\bin\Mvc_BO.dll.config
+C:\CursoMVC\Aula11_4_InserindoDados\Mvc_BO\Mvc_BO\bin\Mvc_BO.dll
+C:\CursoMVC\Aula11_4_InserindoDados\Mvc_BO\Mvc_BO\bin\Mvc_BO.pdb
+C:\CursoMVC\Aula11_4_InserindoDados\Mvc_BO\Mvc_BO\bin\BLL.dll
+C:\CursoMVC\Aula11_4_InserindoDados\Mvc_BO\Mvc_BO\bin\System.Web.Helpers.dll
+C:\CursoMVC\Aula11_4_InserindoDados\Mvc_BO\Mvc_BO\bin\System.Web.Mvc.dll
+C:\CursoMVC\Aula11_4_InserindoDados\Mvc_BO\Mvc_BO\bin\System.Web.Razor.dll
+C:\CursoMVC\Aula11_4_InserindoDados\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.Deployment.dll
+C:\CursoMVC\Aula11_4_InserindoDados\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.dll
+C:\CursoMVC\Aula11_4_InserindoDados\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.Razor.dll
+C:\CursoMVC\Aula11_4_InserindoDados\Mvc_BO\Mvc_BO\bin\BLL.pdb
+C:\CursoMVC\Aula11_4_InserindoDados\Mvc_BO\Mvc_BO\bin\System.Web.Razor.xml
+C:\CursoMVC\Aula11_4_InserindoDados\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.xml
+C:\CursoMVC\Aula11_4_InserindoDados\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.Deployment.xml
+C:\CursoMVC\Aula11_4_InserindoDados\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.Razor.xml
+C:\CursoMVC\Aula11_4_InserindoDados\Mvc_BO\Mvc_BO\bin\System.Web.Helpers.xml
+C:\CursoMVC\Aula11_4_InserindoDados\Mvc_BO\Mvc_BO\bin\System.Web.Mvc.xml
+C:\CursoMVC\Aula11_4_InserindoDados\Mvc_BO\Mvc_BO\obj\Debug\Mvc_BO.csprojResolveAssemblyReference.cache
+C:\CursoMVC\Aula11_4_InserindoDados\Mvc_BO\Mvc_BO\obj\Debug\Mvc_BO.dll
+C:\CursoMVC\Aula11_4_InserindoDados\Mvc_BO\Mvc_BO\obj\Debug\Mvc_BO.pdb
+C:\CursoMVC\Aula11_5_EditandoDados\Mvc_BO\Mvc_BO\bin\Mvc_BO.dll.config
+C:\CursoMVC\Aula11_5_EditandoDados\Mvc_BO\Mvc_BO\bin\Mvc_BO.dll
+C:\CursoMVC\Aula11_5_EditandoDados\Mvc_BO\Mvc_BO\bin\Mvc_BO.pdb
+C:\CursoMVC\Aula11_5_EditandoDados\Mvc_BO\Mvc_BO\bin\BLL.dll
+C:\CursoMVC\Aula11_5_EditandoDados\Mvc_BO\Mvc_BO\bin\System.Web.Helpers.dll
+C:\CursoMVC\Aula11_5_EditandoDados\Mvc_BO\Mvc_BO\bin\System.Web.Mvc.dll
+C:\CursoMVC\Aula11_5_EditandoDados\Mvc_BO\Mvc_BO\bin\System.Web.Razor.dll
+C:\CursoMVC\Aula11_5_EditandoDados\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.Deployment.dll
+C:\CursoMVC\Aula11_5_EditandoDados\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.dll
+C:\CursoMVC\Aula11_5_EditandoDados\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.Razor.dll
+C:\CursoMVC\Aula11_5_EditandoDados\Mvc_BO\Mvc_BO\bin\BLL.pdb
+C:\CursoMVC\Aula11_5_EditandoDados\Mvc_BO\Mvc_BO\bin\System.Web.Razor.xml
+C:\CursoMVC\Aula11_5_EditandoDados\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.xml
+C:\CursoMVC\Aula11_5_EditandoDados\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.Deployment.xml
+C:\CursoMVC\Aula11_5_EditandoDados\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.Razor.xml
+C:\CursoMVC\Aula11_5_EditandoDados\Mvc_BO\Mvc_BO\bin\System.Web.Helpers.xml
+C:\CursoMVC\Aula11_5_EditandoDados\Mvc_BO\Mvc_BO\bin\System.Web.Mvc.xml
+C:\CursoMVC\Aula11_5_EditandoDados\Mvc_BO\Mvc_BO\obj\Debug\Mvc_BO.csprojResolveAssemblyReference.cache
+C:\CursoMVC\Aula11_5_EditandoDados\Mvc_BO\Mvc_BO\obj\Debug\Mvc_BO.dll
+C:\CursoMVC\Aula11_5_EditandoDados\Mvc_BO\Mvc_BO\obj\Debug\Mvc_BO.pdb
+C:\CursoMVC\Aula11_6_Bind\Mvc_BO\Mvc_BO\bin\Mvc_BO.dll.config
+C:\CursoMVC\Aula11_6_Bind\Mvc_BO\Mvc_BO\bin\Mvc_BO.dll
+C:\CursoMVC\Aula11_6_Bind\Mvc_BO\Mvc_BO\bin\Mvc_BO.pdb
+C:\CursoMVC\Aula11_6_Bind\Mvc_BO\Mvc_BO\bin\BLL.dll
+C:\CursoMVC\Aula11_6_Bind\Mvc_BO\Mvc_BO\bin\System.Web.Helpers.dll
+C:\CursoMVC\Aula11_6_Bind\Mvc_BO\Mvc_BO\bin\System.Web.Mvc.dll
+C:\CursoMVC\Aula11_6_Bind\Mvc_BO\Mvc_BO\bin\System.Web.Razor.dll
+C:\CursoMVC\Aula11_6_Bind\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.Deployment.dll
+C:\CursoMVC\Aula11_6_Bind\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.dll
+C:\CursoMVC\Aula11_6_Bind\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.Razor.dll
+C:\CursoMVC\Aula11_6_Bind\Mvc_BO\Mvc_BO\bin\BLL.pdb
+C:\CursoMVC\Aula11_6_Bind\Mvc_BO\Mvc_BO\bin\System.Web.Razor.xml
+C:\CursoMVC\Aula11_6_Bind\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.xml
+C:\CursoMVC\Aula11_6_Bind\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.Deployment.xml
+C:\CursoMVC\Aula11_6_Bind\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.Razor.xml
+C:\CursoMVC\Aula11_6_Bind\Mvc_BO\Mvc_BO\bin\System.Web.Helpers.xml
+C:\CursoMVC\Aula11_6_Bind\Mvc_BO\Mvc_BO\bin\System.Web.Mvc.xml
+C:\CursoMVC\Aula11_6_Bind\Mvc_BO\Mvc_BO\obj\Debug\Mvc_BO.csprojResolveAssemblyReference.cache
+C:\CursoMVC\Aula11_6_Bind\Mvc_BO\Mvc_BO\obj\Debug\Mvc_BO.dll
+C:\CursoMVC\Aula11_6_Bind\Mvc_BO\Mvc_BO\obj\Debug\Mvc_BO.pdb
+C:\CursoMVC\Aula11_7_DeletandoDados\Mvc_BO\Mvc_BO\bin\Mvc_BO.dll.config
+C:\CursoMVC\Aula11_7_DeletandoDados\Mvc_BO\Mvc_BO\bin\Mvc_BO.dll
+C:\CursoMVC\Aula11_7_DeletandoDados\Mvc_BO\Mvc_BO\bin\Mvc_BO.pdb
+C:\CursoMVC\Aula11_7_DeletandoDados\Mvc_BO\Mvc_BO\bin\BLL.dll
+C:\CursoMVC\Aula11_7_DeletandoDados\Mvc_BO\Mvc_BO\bin\System.Web.Helpers.dll
+C:\CursoMVC\Aula11_7_DeletandoDados\Mvc_BO\Mvc_BO\bin\System.Web.Mvc.dll
+C:\CursoMVC\Aula11_7_DeletandoDados\Mvc_BO\Mvc_BO\bin\System.Web.Razor.dll
+C:\CursoMVC\Aula11_7_DeletandoDados\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.Deployment.dll
+C:\CursoMVC\Aula11_7_DeletandoDados\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.dll
+C:\CursoMVC\Aula11_7_DeletandoDados\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.Razor.dll
+C:\CursoMVC\Aula11_7_DeletandoDados\Mvc_BO\Mvc_BO\bin\BLL.pdb
+C:\CursoMVC\Aula11_7_DeletandoDados\Mvc_BO\Mvc_BO\bin\System.Web.Razor.xml
+C:\CursoMVC\Aula11_7_DeletandoDados\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.xml
+C:\CursoMVC\Aula11_7_DeletandoDados\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.Deployment.xml
+C:\CursoMVC\Aula11_7_DeletandoDados\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.Razor.xml
+C:\CursoMVC\Aula11_7_DeletandoDados\Mvc_BO\Mvc_BO\bin\System.Web.Helpers.xml
+C:\CursoMVC\Aula11_7_DeletandoDados\Mvc_BO\Mvc_BO\bin\System.Web.Mvc.xml
+C:\CursoMVC\Aula11_7_DeletandoDados\Mvc_BO\Mvc_BO\obj\Debug\Mvc_BO.csprojResolveAssemblyReference.cache
+C:\CursoMVC\Aula11_7_DeletandoDados\Mvc_BO\Mvc_BO\obj\Debug\Mvc_BO.dll
+C:\CursoMVC\Aula11_7_DeletandoDados\Mvc_BO\Mvc_BO\obj\Debug\Mvc_BO.pdb
+C:\CursoMVC\Aula11_8_Detalhtes\Mvc_BO\Mvc_BO\bin\Mvc_BO.dll.config
+C:\CursoMVC\Aula11_8_Detalhtes\Mvc_BO\Mvc_BO\bin\Mvc_BO.dll
+C:\CursoMVC\Aula11_8_Detalhtes\Mvc_BO\Mvc_BO\bin\Mvc_BO.pdb
+C:\CursoMVC\Aula11_8_Detalhtes\Mvc_BO\Mvc_BO\bin\BLL.dll
+C:\CursoMVC\Aula11_8_Detalhtes\Mvc_BO\Mvc_BO\bin\System.Web.Helpers.dll
+C:\CursoMVC\Aula11_8_Detalhtes\Mvc_BO\Mvc_BO\bin\System.Web.Mvc.dll
+C:\CursoMVC\Aula11_8_Detalhtes\Mvc_BO\Mvc_BO\bin\System.Web.Razor.dll
+C:\CursoMVC\Aula11_8_Detalhtes\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.Deployment.dll
+C:\CursoMVC\Aula11_8_Detalhtes\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.dll
+C:\CursoMVC\Aula11_8_Detalhtes\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.Razor.dll
+C:\CursoMVC\Aula11_8_Detalhtes\Mvc_BO\Mvc_BO\bin\BLL.pdb
+C:\CursoMVC\Aula11_8_Detalhtes\Mvc_BO\Mvc_BO\bin\System.Web.Razor.xml
+C:\CursoMVC\Aula11_8_Detalhtes\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.xml
+C:\CursoMVC\Aula11_8_Detalhtes\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.Deployment.xml
+C:\CursoMVC\Aula11_8_Detalhtes\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.Razor.xml
+C:\CursoMVC\Aula11_8_Detalhtes\Mvc_BO\Mvc_BO\bin\System.Web.Helpers.xml
+C:\CursoMVC\Aula11_8_Detalhtes\Mvc_BO\Mvc_BO\bin\System.Web.Mvc.xml
+C:\CursoMVC\Aula11_8_Detalhtes\Mvc_BO\Mvc_BO\obj\Debug\Mvc_BO.csprojResolveAssemblyReference.cache
+C:\CursoMVC\Aula11_8_Detalhtes\Mvc_BO\Mvc_BO\obj\Debug\Mvc_BO.dll
+C:\CursoMVC\Aula11_8_Detalhtes\Mvc_BO\Mvc_BO\obj\Debug\Mvc_BO.pdb
+C:\CursoMVC\Aula11_9_Imagem\Mvc_BO\Mvc_BO\bin\Mvc_BO.dll.config
+C:\CursoMVC\Aula11_9_Imagem\Mvc_BO\Mvc_BO\bin\Mvc_BO.dll
+C:\CursoMVC\Aula11_9_Imagem\Mvc_BO\Mvc_BO\bin\Mvc_BO.pdb
+C:\CursoMVC\Aula11_9_Imagem\Mvc_BO\Mvc_BO\bin\BLL.dll
+C:\CursoMVC\Aula11_9_Imagem\Mvc_BO\Mvc_BO\bin\System.Web.Helpers.dll
+C:\CursoMVC\Aula11_9_Imagem\Mvc_BO\Mvc_BO\bin\System.Web.Mvc.dll
+C:\CursoMVC\Aula11_9_Imagem\Mvc_BO\Mvc_BO\bin\System.Web.Razor.dll
+C:\CursoMVC\Aula11_9_Imagem\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.Deployment.dll
+C:\CursoMVC\Aula11_9_Imagem\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.dll
+C:\CursoMVC\Aula11_9_Imagem\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.Razor.dll
+C:\CursoMVC\Aula11_9_Imagem\Mvc_BO\Mvc_BO\bin\BLL.pdb
+C:\CursoMVC\Aula11_9_Imagem\Mvc_BO\Mvc_BO\bin\System.Web.Razor.xml
+C:\CursoMVC\Aula11_9_Imagem\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.xml
+C:\CursoMVC\Aula11_9_Imagem\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.Deployment.xml
+C:\CursoMVC\Aula11_9_Imagem\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.Razor.xml
+C:\CursoMVC\Aula11_9_Imagem\Mvc_BO\Mvc_BO\bin\System.Web.Helpers.xml
+C:\CursoMVC\Aula11_9_Imagem\Mvc_BO\Mvc_BO\bin\System.Web.Mvc.xml
+C:\CursoMVC\Aula11_9_Imagem\Mvc_BO\Mvc_BO\obj\Debug\Mvc_BO.csprojResolveAssemblyReference.cache
+C:\CursoMVC\Aula11_9_Imagem\Mvc_BO\Mvc_BO\obj\Debug\Mvc_BO.dll
+C:\CursoMVC\Aula11_9_Imagem\Mvc_BO\Mvc_BO\obj\Debug\Mvc_BO.pdb
+C:\CursoMVC\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\bin\Mvc_BO.dll.config
+C:\CursoMVC\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\bin\Mvc_BO.dll
+C:\CursoMVC\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\bin\Mvc_BO.pdb
+C:\CursoMVC\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\bin\BLL.dll
+C:\CursoMVC\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\bin\System.Web.Helpers.dll
+C:\CursoMVC\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\bin\System.Web.Mvc.dll
+C:\CursoMVC\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\bin\System.Web.Razor.dll
+C:\CursoMVC\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.Deployment.dll
+C:\CursoMVC\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.dll
+C:\CursoMVC\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.Razor.dll
+C:\CursoMVC\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\bin\BLL.pdb
+C:\CursoMVC\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\bin\System.Web.Razor.xml
+C:\CursoMVC\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.xml
+C:\CursoMVC\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.Deployment.xml
+C:\CursoMVC\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.Razor.xml
+C:\CursoMVC\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\bin\System.Web.Helpers.xml
+C:\CursoMVC\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\bin\System.Web.Mvc.xml
+C:\CursoMVC\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\obj\Debug\Mvc_BO.csprojResolveAssemblyReference.cache
+C:\CursoMVC\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\obj\Debug\Mvc_BO.dll
+C:\CursoMVC\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\obj\Debug\Mvc_BO.pdb
+D:\Curso MVC\Curso_ASPNET_MVC5_2_11-25\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\bin\Mvc_BO.dll.config
+D:\Curso MVC\Curso_ASPNET_MVC5_2_11-25\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\bin\Mvc_BO.dll
+D:\Curso MVC\Curso_ASPNET_MVC5_2_11-25\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\bin\Mvc_BO.pdb
+D:\Curso MVC\Curso_ASPNET_MVC5_2_11-25\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\bin\BLL.dll
+D:\Curso MVC\Curso_ASPNET_MVC5_2_11-25\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\bin\Microsoft.Web.Infrastructure.dll
+D:\Curso MVC\Curso_ASPNET_MVC5_2_11-25\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\bin\System.Web.Helpers.dll
+D:\Curso MVC\Curso_ASPNET_MVC5_2_11-25\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\bin\System.Web.Mvc.dll
+D:\Curso MVC\Curso_ASPNET_MVC5_2_11-25\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\bin\System.Web.Razor.dll
+D:\Curso MVC\Curso_ASPNET_MVC5_2_11-25\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.Deployment.dll
+D:\Curso MVC\Curso_ASPNET_MVC5_2_11-25\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.dll
+D:\Curso MVC\Curso_ASPNET_MVC5_2_11-25\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.Razor.dll
+D:\Curso MVC\Curso_ASPNET_MVC5_2_11-25\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\bin\BLL.pdb
+D:\Curso MVC\Curso_ASPNET_MVC5_2_11-25\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\bin\System.Web.Razor.xml
+D:\Curso MVC\Curso_ASPNET_MVC5_2_11-25\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.xml
+D:\Curso MVC\Curso_ASPNET_MVC5_2_11-25\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.Deployment.xml
+D:\Curso MVC\Curso_ASPNET_MVC5_2_11-25\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\bin\System.Web.Webpages.Razor.xml
+D:\Curso MVC\Curso_ASPNET_MVC5_2_11-25\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\bin\System.Web.Helpers.xml
+D:\Curso MVC\Curso_ASPNET_MVC5_2_11-25\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\bin\System.Web.Mvc.xml
+D:\Curso MVC\Curso_ASPNET_MVC5_2_11-25\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\obj\Debug\Mvc_BO.csprojAssemblyReference.cache
+D:\Curso MVC\Curso_ASPNET_MVC5_2_11-25\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\obj\Debug\Mvc_BO.csproj.CoreCompileInputs.cache
+D:\Curso MVC\Curso_ASPNET_MVC5_2_11-25\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\obj\Debug\Mvc_BO.csproj.CopyComplete
+D:\Curso MVC\Curso_ASPNET_MVC5_2_11-25\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\obj\Debug\Mvc_BO.dll
+D:\Curso MVC\Curso_ASPNET_MVC5_2_11-25\Aula11_10_PartialViews\Mvc_BO\Mvc_BO\obj\Debug\Mvc_BO.pdb

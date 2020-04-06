@@ -1,0 +1,35 @@
+C:\CursoMVC\Aula11_3_BussinesObjects\Mvc_BO\BLL\bin\Debug\BLL.dll
+C:\CursoMVC\Aula11_3_BussinesObjects\Mvc_BO\BLL\bin\Debug\BLL.pdb
+C:\CursoMVC\Aula11_3_BussinesObjects\Mvc_BO\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\CursoMVC\Aula11_3_BussinesObjects\Mvc_BO\BLL\obj\Debug\BLL.dll
+C:\CursoMVC\Aula11_3_BussinesObjects\Mvc_BO\BLL\obj\Debug\BLL.pdb
+C:\CursoMVC\Aula11_4_InserindoDados\Mvc_BO\BLL\bin\Debug\BLL.dll
+C:\CursoMVC\Aula11_4_InserindoDados\Mvc_BO\BLL\bin\Debug\BLL.pdb
+C:\CursoMVC\Aula11_4_InserindoDados\Mvc_BO\BLL\obj\Debug\BLL.dll
+C:\CursoMVC\Aula11_4_InserindoDados\Mvc_BO\BLL\obj\Debug\BLL.pdb
+C:\CursoMVC\Aula11_5_EditandoDados\Mvc_BO\BLL\bin\Debug\BLL.dll
+C:\CursoMVC\Aula11_5_EditandoDados\Mvc_BO\BLL\bin\Debug\BLL.pdb
+C:\CursoMVC\Aula11_5_EditandoDados\Mvc_BO\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\CursoMVC\Aula11_5_EditandoDados\Mvc_BO\BLL\obj\Debug\BLL.dll
+C:\CursoMVC\Aula11_5_EditandoDados\Mvc_BO\BLL\obj\Debug\BLL.pdb
+C:\CursoMVC\Aula11_6_Bind\Mvc_BO\BLL\bin\Debug\BLL.dll
+C:\CursoMVC\Aula11_6_Bind\Mvc_BO\BLL\bin\Debug\BLL.pdb
+C:\CursoMVC\Aula11_6_Bind\Mvc_BO\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\CursoMVC\Aula11_6_Bind\Mvc_BO\BLL\obj\Debug\BLL.dll
+C:\CursoMVC\Aula11_6_Bind\Mvc_BO\BLL\obj\Debug\BLL.pdb
+C:\CursoMVC\Aula11_9_Imagem\Mvc_BO\BLL\bin\Debug\BLL.dll
+C:\CursoMVC\Aula11_9_Imagem\Mvc_BO\BLL\bin\Debug\BLL.pdb
+C:\CursoMVC\Aula11_9_Imagem\Mvc_BO\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\CursoMVC\Aula11_9_Imagem\Mvc_BO\BLL\obj\Debug\BLL.dll
+C:\CursoMVC\Aula11_9_Imagem\Mvc_BO\BLL\obj\Debug\BLL.pdb
+C:\CursoMVC\Aula11_10_PartialViews\Mvc_BO\BLL\bin\Debug\BLL.dll
+C:\CursoMVC\Aula11_10_PartialViews\Mvc_BO\BLL\bin\Debug\BLL.pdb
+C:\CursoMVC\Aula11_10_PartialViews\Mvc_BO\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\CursoMVC\Aula11_10_PartialViews\Mvc_BO\BLL\obj\Debug\BLL.dll
+C:\CursoMVC\Aula11_10_PartialViews\Mvc_BO\BLL\obj\Debug\BLL.pdb
+D:\Curso MVC\Curso_ASPNET_MVC5_2_11-25\Aula11_10_PartialViews\Mvc_BO\BLL\bin\Debug\BLL.dll
+D:\Curso MVC\Curso_ASPNET_MVC5_2_11-25\Aula11_10_PartialViews\Mvc_BO\BLL\bin\Debug\BLL.pdb
+D:\Curso MVC\Curso_ASPNET_MVC5_2_11-25\Aula11_10_PartialViews\Mvc_BO\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\Curso MVC\Curso_ASPNET_MVC5_2_11-25\Aula11_10_PartialViews\Mvc_BO\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Curso MVC\Curso_ASPNET_MVC5_2_11-25\Aula11_10_PartialViews\Mvc_BO\BLL\obj\Debug\BLL.dll
+D:\Curso MVC\Curso_ASPNET_MVC5_2_11-25\Aula11_10_PartialViews\Mvc_BO\BLL\obj\Debug\BLL.pdb
